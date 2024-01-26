@@ -1,3 +1,7 @@
+# Bug report editable Dropdown
+
+When using an editable Dropdown on mobile, mobile keyboard or dev device toolbal / adapative vue, the text editing is buggy as a selected option cannot be modified.
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
